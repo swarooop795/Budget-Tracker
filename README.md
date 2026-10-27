@@ -218,3 +218,4 @@ ChatGPT was used to:
 - Explain Flask, SQLAlchemy, and testing concepts.
 - Help troubleshoot application errors during development.
 AI-generated suggestions should be reviewed and tested. I am responsible for understanding the application's code and being able to explain the data model, route behavior, design decisions, and each automated test.
+
